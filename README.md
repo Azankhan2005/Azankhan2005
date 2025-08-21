@@ -53,25 +53,22 @@ AWS · GCP · Azure · Docker · SageMaker · Flask · FastAPI · Streamlit · H
 
 ---
 
-## 💼 Experience
+## 💼 Experience  
 
-**Freelance Computer Vision Engineer — Fiverr | 2023–2025**
+### Freelance Computer Vision Engineer — Fiverr | 2024–2025  
+- Delivered custom sports analytics solutions including player tracking, speed detection, and real-time leaderboard generation.  
+- Developed advanced object detection pipelines (YOLOv5/v8, TensorFlow, PyTorch) for ball trajectory analysis, fight stance recognition, and PPE detection.  
+- Built interactive client-facing apps with Streamlit and Flask, enabling real-time visualization and analytics dashboards.  
 
-* Delivered end‑to‑end CV solutions: gesture recognition, vehicle detection, OCR, and real‑time object tracking.
-* Built production‑ready models using **YOLOv5/v8, TensorFlow, PyTorch**, optimized for accuracy and speed.
-* Shipped interactive apps with **Streamlit** and **Flask** for clients worldwide.
+### Independent AI Specialist — LinkedIn (Inbound Projects) | 2024–2025  
+- Attracted projects through portfolio showcases on sports CV, data insights, and applied AI solutions.  
+- Designed and fine-tuned ML models for tasks like gesture recognition, video action classification, and OCR.  
+- Shared knowledge through technical content, tutorials, and code demos, building credibility and brand in the AI community.  
 
-**Freelance AI Specialist — LinkedIn (Inbound Projects) | 2024–2025**
-
-* Won projects via technical content and portfolio showcases in **CV/AI**.
-* Consulted on model tuning, custom ML solutions, and API integrations.
-* Built a personal brand through applied AI insights, code demos, and research‑driven posts.
-
-**Computer Vision Engineer — Upwork | 2023–2025**
-
-* Collaborated with startups/research teams to design **real‑time video AI** applications.
-* Specialized in **pose estimation**, image enhancement, and **sports analytics**.
-* Deployed scalable solutions using **Docker, Flask, GCP** for cloud‑based AI services.
+### Computer Vision Engineer — Upwork | 2024–2025  
+- Partnered with startups and research teams to create real-time video AI systems.  
+- Specialized in sports-focused AI: race analytics, fight clinch/ground time detection, and movement tracking.  
+- Delivered scalable, production-ready solutions using Docker, Flask, and GCP, optimized for deployment in cloud and edge devices.  
 
 ---
 
