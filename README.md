@@ -49,7 +49,7 @@ Tableau · Power BI (Dashboards & Reporting)
 Python (Pandas, NumPy, OpenCV, Matplotlib, Seaborn, scikit‑learn)
 
 **Cloud & Deployment**
-AWS · GCP · Azure · Docker · SageMaker · Flask · FastAPI · Streamlit · Heroku
+AWS · GCP · Flask  · Streamlit · 
 
 ---
 
