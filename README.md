@@ -48,9 +48,6 @@ Tableau · Power BI (Dashboards & Reporting)
 **Programming**
 Python (Pandas, NumPy, OpenCV, Matplotlib, Seaborn, scikit‑learn)
 
-**Cloud & Deployment**
-AWS · GCP · Flask  · Streamlit · 
-
 ---
 
 ## 💼 Experience  
@@ -64,11 +61,6 @@ AWS · GCP · Flask  · Streamlit ·
 - Attracted projects through portfolio showcases on sports CV, data insights, and applied AI solutions.  
 - Designed and fine-tuned ML models for tasks like gesture recognition, video action classification, and OCR.  
 - Shared knowledge through technical content, tutorials, and code demos, building credibility and brand in the AI community.  
-
-### Computer Vision Engineer — Upwork | 2024–2025  
-- Partnered with startups and research teams to create real-time video AI systems.  
-- Specialized in sports-focused AI: race analytics, fight clinch/ground time detection, and movement tracking.  
-- Delivered scalable, production-ready solutions using Docker, Flask, and GCP, optimized for deployment in cloud and edge devices.  
 
 ---
 
